@@ -45,7 +45,7 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
-    "crypto-js": "^3.1.8",
+    "crypto-js": "git@github.com:livewyer-ops/crypto-js.git",
     "query-string": "^4.1.0"
   }
 }
